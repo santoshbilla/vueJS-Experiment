@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+        <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
+    </head>
+    <body>
+        <div id="app">
+            {{message}}
+           <!--<div>{{time}}</div>-->
+           <span class="timeClass" v-bind:time="time">{{time}}</span>
+        </div>
+        
+        <script src="index.js"></script>
+    </body>
+
+</html>
