@@ -1,6 +1,6 @@
 # Vue Experiment
 
-This project was created while reading through Vue JS documentation.
+I created this project while I was reading through Vue JS documentation.
 
 
 Not much going on here.. but i wanted to test the reactivity of vue components and see how fast they are.
